@@ -1,3 +1,13 @@
-.ipynb_checkpoints/
-notebooks/.ipynb_checkpoints/
-data/
+__pycache__/
+settings.py
+.DS_Store
+
+# Environments
+.env
+
+# Notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Data directory
+/data/
