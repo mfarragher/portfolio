@@ -58,7 +58,7 @@ pandas==0.24.0
 pandocfilters==1.4.2
 parso==0.3.2
 pickleshare==0.7.5
-Pillow==5.4.1
+Pillow==8.2.0
 prometheus-client==0.5.0
 prompt-toolkit==2.0.7
 Pygments==2.3.1
