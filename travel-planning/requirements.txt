@@ -1,4 +1,4 @@
-arrow==0.13.0
+arrow==0.15.1
 attrs==18.2.0
 backcall==0.1.0
 basemap==1.2.0
